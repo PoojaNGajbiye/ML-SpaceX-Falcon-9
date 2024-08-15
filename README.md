@@ -34,7 +34,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/rishikh9837/spacex.git
+git clone [https://github.com/rishikh9837/spacex.git](https://github.com/PoojaNGajbiye/ML-SpaceX-Falcon-9.git)
 Navigate to the Project Directory:
 
 bash
